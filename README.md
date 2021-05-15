@@ -1,6 +1,7 @@
 
 #
-### <img  align="left" width="270" alt="Screen Shot 2021-05-14 at 6 43 59 PM" src="https://user-images.githubusercontent.com/25016486/118338753-ea37ca00-b4e4-11eb-94c2-c7ac2e72306e.png">  Hi there Im Netaly👋
+### Hi there Im Netaly👋
+<img  align="left" width="270" alt="Screen Shot 2021-05-14 at 6 43 59 PM" src="https://user-images.githubusercontent.com/25016486/118338753-ea37ca00-b4e4-11eb-94c2-c7ac2e72306e.png" style="border-radius:50%;"> 
 
 ![21Shield's GitHub stats](https://github-readme-stats.vercel.app/api?username=21shield&theme=graywhite&show_icons=true)
 
