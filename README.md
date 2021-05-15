@@ -5,17 +5,17 @@
 ![21Shield's GitHub stats](https://github-readme-stats.vercel.app/api?username=21shield&theme=graywhite&show_icons=true)
 
 #
+ | Languages | FrameWorks | DBs  | Socials
+ | :----:  |    :----:   |   :----:  |   :----:  |
+| <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" alt="Javascript" height="30" style="vertical-align:top; margin:4px">| Title       | Here's this   | linkedin |
+| Paragraph   | Text        |  some test | <a href="https://linkedin.com/in/netalyRamirez" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="30"></a> |
+| Paragraph   | Text        |  some test | <a href="https://21netaly.medium.com/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" height="30" style="vertical-align:top; margin:4px"></a> |
+| Paragraph   | Text        |  some test | <a href="https://twitter.com/NetalyCodes" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" height="30" style="vertical-align:top; margin:4px"></a> |
 
-    | Media | <a href="https://linkedin.com/in/netalyRamirez" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="30"></a>   <a href="https://21netaly.medium.com/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" height="30" style="vertical-align:top; margin:4px"></a> 
-
-<a href="https://twitter.com/NetalyCodes" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" height="30" style="vertical-align:top; margin:4px"></a>  |
-    | :----:    | |
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" alt="Javascript" height="30" style="vertical-align:top; margin:4px">
+| Languages | <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" alt="Javascript" height="30" style="vertical-align:top; margin:4px">  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/ruby.svg" alt="Javascript" height="30" style="vertical-align:top; margin:4px; background-color: pink;">| 
+| :----:  |    :----:   |  
 
 
-
-
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" alt="Javascript" height="30" style="vertical-align:top; margin:4px">  
 
 <!--
 **21shield/21shield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
