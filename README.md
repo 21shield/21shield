@@ -4,16 +4,29 @@
 
 ![21Shield's GitHub stats](https://github-readme-stats.vercel.app/api?username=21shield&theme=graywhite&show_icons=true)
 
-#
- | Languages | FrameWorks | DBs  | Socials
- | :----:  |    :----:   |   :----:  |   :----:  |
-| <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" alt="Javascript" height="30" style="vertical-align:top; margin:4px">| Title       | Here's this   | linkedin |
-| Paragraph   | Text        |  some test | <a href="https://linkedin.com/in/netalyRamirez" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="30"></a> |
-| Paragraph   | Text        |  some test | <a href="https://21netaly.medium.com/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" height="30" style="vertical-align:top; margin:4px"></a> |
-| Paragraph   | Text        |  some test | <a href="https://twitter.com/NetalyCodes" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" height="30" style="vertical-align:top; margin:4px"></a> |
+###
 
-| Languages | <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" alt="Javascript" height="30" style="vertical-align:top; margin:4px">  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/ruby.svg" alt="Javascript" height="30" style="vertical-align:top; margin:4px; background-color: pink;">| 
+## Find me on social media:  
+ <a href="https://linkedin.com/in/netalyRamirez" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="30" style="vertical-align:top; margin:4px; background-color: lavender;"></a>  <a href="https://21netaly.medium.com/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" height="30" style="vertical-align:top; margin:4px; background-color: lavender;"></a> <a href="https://twitter.com/NetalyCodes" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" height="30" style="vertical-align:top; margin:4px; background-color: lavender;"></a>  
+
+
+----
+| Testing: | <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/jest.svg" alt="Jest" height="30" style="vertical-align:top; margin:4px; background-color: lavender;"> | 
+| :----:  |    :----:   |
+
+| DataBases:  | <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mongodb.svg" alt="MongoDb" height="30" style="vertical-align:top; margin:4px; background-color: lavender;">  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/postgresql.svg" alt="PostgreSQL" height="30" style="vertical-align:top; margin:4px; background-color: lavender;"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/sqlite.svg" alt="sqlite" height="30" style="vertical-align:top; margin:4px; background-color: lavender;">| 
+| :----:  |    :----:   |
+
+
+| Languages: | <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" alt="JavaScript" height="30" style="vertical-align:top; margin:4px; background-color: lavender;">  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/ruby.svg" alt="Ruby" height="30" style="vertical-align:top; margin:4px; background-color: lavender;"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" alt="HTML" height="30" style="vertical-align:top; margin:4px; background-color: lavender;"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg" alt="CSS" height="30" style="vertical-align:top; margin:4px; background-color: lavender;"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/typescript.svg" alt="TypeScript" height="30" style="vertical-align:top; margin:4px; background-color: lavender;"> | 
 | :----:  |    :----:   |  
+
+|  Frameworks & Libraries: |  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg" alt="React" height="30" style="vertical-align:top; margin:4px; background-color: lavender;">  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/redux.svg" alt="Redux" height="30" style="vertical-align:top; margin:4px; background-color: lavender;"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/rubyonrails.svg" alt="RubyOnRails" height="30" style="vertical-align:top; margin:4px; background-color: lavender;">  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/bootstrap.svg" alt="Bootstrap" height="30" style="vertical-align:top; margin:4px; background-color: lavender;">  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/material-ui.svg" alt="Material Ui" height="30" style="vertical-align:top; margin:4px; background-color: lavender;">| 
+| :----:  |    :----:   | 
+
+
+------
+
 
 
 
