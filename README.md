@@ -7,7 +7,9 @@
 ###
 
 ## Find me on social media:  
- <a href="https://linkedin.com/in/netalyRamirez" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="30" style="vertical-align:top; margin:4px; background-color: lavender;"></a>  <a href="https://21netaly.medium.com/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" height="30" style="vertical-align:top; margin:4px; background-color: lavender;"></a> <a href="https://twitter.com/NetalyCodes" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" height="30" style="vertical-align:top; margin:4px; background-color: lavender;"></a>  
+ * <a href="https://linkedin.com/in/netalyRamirez" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="30" style="vertical-align:top; margin:4px; background-color: lavender;"></a> 
+  * <a href="https://21netaly.medium.com/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" height="30" style="vertical-align:top; margin:4px; background-color: lavender;"></a> 
+ * <a href="https://twitter.com/NetalyCodes" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" height="30" style="vertical-align:top; margin:4px; background-color: lavender;"></a>  
 
 
 ----
