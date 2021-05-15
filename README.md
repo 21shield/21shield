@@ -12,6 +12,8 @@
 | Paragraph   | Text        |  some test | <a href="https://21netaly.medium.com/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" height="30" style="vertical-align:top; margin:4px"></a> |
 | Paragraph   | Text        |  some test | <a href="https://twitter.com/NetalyCodes" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" height="30" style="vertical-align:top; margin:4px"></a> |
 
+| Languages | <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" alt="Javascript" height="30" style="vertical-align:top; margin:4px"> | 
+| :----:  |    :----:   |  
 
 <!--
 **21shield/21shield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
