@@ -1,5 +1,4 @@
 
-#
 ### Hi there Im Netaly! On Wednesdays I wear black.👋
 ###
 <img  align="left" width="270" alt="Screen Shot 2021-05-14 at 6 43 59 PM" src="https://user-images.githubusercontent.com/25016486/118338753-ea37ca00-b4e4-11eb-94c2-c7ac2e72306e.png" style="border-radius: 13rem;"/> 
@@ -11,6 +10,10 @@
 ## Find me on social media:  <a href="https://linkedin.com/in/netalyRamirez" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="30" style="vertical-align:top; margin:4px; padding: 1rem;"></a> <a href="https://21netaly.medium.com/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" height="30" style="vertical-align:top; margin:4px; padding: 1rem;"></a> <a href="https://twitter.com/NetalyCodes" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" height="30" style="vertical-align:top; margin:4px; padding: 1rem;"></a> 
 
 
+----
+- 🔭 I’m currently working on a small Marvel app
+- 🌱 I’m currently learning TypeScript/ Styled Components/ Java
+- ⚡ Fun fact: Eye Shield 21 is where I grabbed my tag.
 ----
 | Testing: | <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/jest.svg" alt="Jest" height="30" style="vertical-align:top; margin:4px; background-color: lavender;"> | 
 | :----:  |    :----:   |
@@ -27,8 +30,6 @@
 
 
 ------
-
-
 
 
 <!--
