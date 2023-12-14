@@ -11,11 +11,10 @@
 
 
 ----
-- 🔭 I’m currently working on a small Marvel app
 - 🌱 I’m currently learning TypeScript/ Styled Components/ Java
-- ⚡ Fun fact: Eye Shield 21 is where I grabbed my tag.
+- ⚡ Fun fact: Eye Shield 21 is the inspiration for my id!
 ----
-| Testing: | <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/jest.svg" alt="Jest" height="30" style="vertical-align:top; margin:4px; color: lavender;"> | 
+| Testing: | <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/jest.svg" alt="Jest" height="30" style="vertical-align:top; margin:4px; color: lavender;"> |
 | :----:  |    :----:   |
 
 | DataBases:  | <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mongodb.svg" alt="MongoDb" height="30" style="vertical-align:top; margin:4px; background-color: lavender;">  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/postgresql.svg" alt="PostgreSQL" height="30" style="vertical-align:top; margin:4px; background-color: lavender;"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/sqlite.svg" alt="sqlite" height="30" style="vertical-align:top; margin:4px; background-color: lavender;">| 
